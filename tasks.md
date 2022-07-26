@@ -25,3 +25,15 @@ print 1-100 prime numbers using while loop
 - take a list
 - fill the list with a random number. Use math and rand package
 - print the sum of all the numbers in the list
+
+#### Tasks-6
+
+- the biggest number among a,b,c using terinary operators
+
+#### Task-7
+
+- Fibonachi series of 1-100 numbers.
+
+#### Task-8
+
+- 
