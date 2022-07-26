@@ -9,16 +9,17 @@ print(sys.getsizeof(greet))
 # list in python
 
 cheese = ['Cheddar', 'Stilton', 'Cornish Yarg']
-print(cheese[1])
+print(cheese[0],cheese[1],cheese[2])
 cheese[-1] = 'Red Leicester'
 print(cheese) 
 
 mytuple = 'eggs', 'bacon', 'spam', 'tea'
-print(mytuple)
+person ='Jiten',38,"Master of Computer Applications"
+print(person)
 print(mytuple[1])
 print(mytuple[-1])
 
-myDict = {'Australia':'Cabberra','UK':'London','India':'Delhi'}
+myDict = {'Australia':'Canberra','UK':'London','India':'Delhi'}
 print(myDict)
 
 
