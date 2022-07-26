@@ -12,7 +12,7 @@ print(c1)
 print(type(c1))
 
 # --------
-x1 = 0x3f
+x1 = 0x3f # 0123456789ABCDEF
 print(x1)
 print(type(x1))
 
